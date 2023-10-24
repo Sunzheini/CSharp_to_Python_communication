@@ -1,0 +1,11 @@
+C:\Appl\Projects\C#\TiaTest\TiaTest\bin\Debug\TiaTest.dll
+C:\Appl\Projects\C#\TiaTest\TiaTest\bin\Debug\TiaTest.pdb
+C:\Appl\Projects\C#\TiaTest\TiaTest\bin\Debug\Siemens.Engineering.dll
+C:\Appl\Projects\C#\TiaTest\TiaTest\bin\Debug\Siemens.Engineering.Hmi.dll
+C:\Appl\Projects\C#\TiaTest\TiaTest\bin\Debug\Siemens.Engineering.xml
+C:\Appl\Projects\C#\TiaTest\TiaTest\bin\Debug\Siemens.Engineering.Hmi.xml
+C:\Appl\Projects\C#\TiaTest\TiaTest\obj\Debug\TiaTest.csproj.AssemblyReference.cache
+C:\Appl\Projects\C#\TiaTest\TiaTest\obj\Debug\TiaTest.csproj.CoreCompileInputs.cache
+C:\Appl\Projects\C#\TiaTest\TiaTest\obj\Debug\TiaTest.csproj.CopyComplete
+C:\Appl\Projects\C#\TiaTest\TiaTest\obj\Debug\TiaTest.dll
+C:\Appl\Projects\C#\TiaTest\TiaTest\obj\Debug\TiaTest.pdb

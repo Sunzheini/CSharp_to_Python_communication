@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TiaTest3/1.0.0": {
+        "dependencies": {
+          "Siemens.Engineering.Contract": "1800.100.4201.1",
+          "Siemens.Engineering": "18.0.0.0"
+        },
+        "runtime": {
+          "TiaTest3.dll": {}
+        }
+      },
+      "Siemens.Engineering.Contract/1800.100.4201.1": {
+        "runtime": {
+          "Siemens.Engineering.Contract.dll": {
+            "assemblyVersion": "1800.100.4201.1",
+            "fileVersion": "1800.100.4201.1"
+          }
+        }
+      },
+      "Siemens.Engineering/18.0.0.0": {
+        "runtime": {
+          "Siemens.Engineering.dll": {
+            "assemblyVersion": "18.0.0.0",
+            "fileVersion": "1800.100.4201.1"
+          }
+        }
+      },
+      "Siemens.Engineering.Hmi/18.0.0.0": {
+        "runtime": {
+          "Siemens.Engineering.Hmi.dll": {
+            "assemblyVersion": "18.0.0.0",
+            "fileVersion": "1800.100.4201.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TiaTest3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.Engineering.Contract/1800.100.4201.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.Engineering/18.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.Engineering.Hmi/18.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
