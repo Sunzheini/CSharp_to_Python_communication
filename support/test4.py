@@ -54,6 +54,7 @@ clr.AddReference("TiaTest")
 # Name of the namespace is "TiaTest.Core.Contracts"
 from TiaTest.Core.Contracts import *
 
+
 # The name of the interface is "ITiaController" and it is public
 class TiaController(ITiaController):
     def __init__(self):

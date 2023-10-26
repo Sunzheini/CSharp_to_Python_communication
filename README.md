@@ -18,5 +18,9 @@ IV. test4.py ():
 the interface. The class itself can be used similar to test1, however the interface cannot. The
 only option is inside the python code to use the class that implements the interface.
 
+V. test5.py ():
+1. Created a Class Library .Net Framework project inside the TiaAutomation solution. The project is called
+TiaAutomationLibrary. 
+
 
 
